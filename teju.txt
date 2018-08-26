@@ -1,0 +1,6 @@
+ name     age
+teju      18
+deepu     19
+chandana  20
+praveena  18
+sonali    19
